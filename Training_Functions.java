@@ -4,7 +4,7 @@ public class Training_Functions {
     }
 
     public static void main(String[] args) throws Exception {
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < 9; i++) {
             System.out.println(i);
         }
 
